@@ -1,0 +1,4 @@
+Renzo,{'Telefono1': 3624847841, 'Telefono2': 5656565656, 'Direccion': 'Calle 1'}
+Maria,{'Telefono1': 36284845454, 'Telefono2': 0, 'Direccion': 'Calle 1'}
+Ayelen,{'Telefono1': 3432484215, 'Telefono2': 0, 'Direccion': 'Calle 1'}
+Arturo,{'Telefono1': 56454545, 'Telefono2': 656454, 'Direccion': 'Calle Portiere'}

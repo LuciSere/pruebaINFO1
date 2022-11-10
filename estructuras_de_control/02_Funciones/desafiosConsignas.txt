@@ -1,0 +1,25 @@
+Desafío 1
+150 años es el tiempo que tarda una bolsa de plástico común en degradarse y 
+una botella de PET puede tardar 1.000 años en desaparecer. 
+Por otro lado los Envases de tetrabrik pueden tardar hasta 30 años en 
+degradarse.
+Un trozo de chicle tarda 5 años en degradarse. 
+Se solicita una función para que dado el ingreso de un elemento, 
+se solicite tipo: Bolsa de plástico, botella PET, envase tetrabrik o 
+chicle, e imprima la cantidad de años que tarda en degradarse.
+
+Desafío 2
+Realiza una función llamada relacion(a, b) que a partir de toneladas 
+recicladas de dos ciudades se cumpla lo siguiente:
+Si el primer número es mayor que el segundo, debe devolver el nombre de 
+la ciudad 1.
+Si el primer número es menor que el segundo, debe devolver el nombre de 
+la ciudad 2.
+Si ambos números son iguales, debe devolver el nombre de ambas.
+
+Desafío 3
+Realiza una función separar(lista) que tome una lista que tenga datos de 
+cantidad de árboles plantados en diferentes ciudades de Argentina durante 
+la cuarentena. Luego la función debe devolver dos listas ordenadas. 
+La primera con las cantidades que superen los 100 y la segunda con el resto.
+Qué cantidad de ciudades han plantado más de 100 árboles durante cuarentena.

@@ -1,0 +1,82 @@
+1- Resuelva los siguientes enunciados teniendo en cuenta la implementación de Listas en Python:
+
+a. Ejecutá las siguientes expresiones y observá los resultados:
+
+i. >>> a = [1, 2, 3]
+
+ii. >>> a is a
+
+iii. >>> a + [] is a
+
+iv. >>> a + [] == a
+
+v. >>> [10, 20, 3] > [1, 2, 3]
+
+vi. >>> [10, 2, 3] > [1, 2, 3]­
+
+vii. >>> [1, 20, 30] > [1, 2, 3]­
+
+viii. >>> [0, 2, 3] <= [1, 2, 3]­
+
+ix. >>> [1] < [2, 3]­
+
+x. >>> [1] < [1, 2]
+
+xi. >>> [1, 2] < [0]
+
+xii. >>> a = list(range(1, 4))
+
+>>> print(a)
+
+xiii. >>> [1, 2] == [1, 2]
+
+xiv. ­>>> [1, 2] is [1, 2]
+
+xv. ­>>> a = [1, 2, 3]
+
+xvi. ­>>> b = [a[0], a[1], a[2]]
+
+xvii. ­>>> a == b
+
+xviii. ­>>> a is b
+
+xix. ­>>> a[0] == b[1]
+
+xx. ­>>> b is [b[0], b[1], b[2]]
+
+b. 	Haz un programa que almacene 5 elementos en una variable del tipo lista, la modiﬁque para que cada componente sea igual al cuadrado del componente original. El programa mostrara la lista resultante por pantalla.
+
+c. 	Escriba un algoritmo que permita cargar una lista. Y que luego, una vez cargada, controle y sustituya cualquier elemento negativo por 0.
+
+d. 	Realice una función que dada una lista de enteros L, y un número entero n. Elimine de la lista original los elementos que sean iguales a ese número dado.
+
+e. 	Cargar m elementos en una pila, y luego copiarlos en una nueva lista.
+
+f. Cargar k elementos en una cola, y luego copiarlos en una nueva lista.
+
+g. 	Cargar dos listas con la misma cantidad de elementos. Luego mezclarlas, cargándolas ordenadas en otra lista.
+
+h. 	Construya un algoritmo que sume todos los elementos en posición par de una lista.
+
+i. Elabore un programa que dada una lista de 15 elementos, copie en otra lista los elementos pares multiplicados por 2.
+
+j. Realizar un algoritmo que invierta el orden de una cola.
+
+k. 	Cargue dos listas, y actualice la primer lista con los elementos que están en la segunda y no en la primera.
+
+
+
+UN POCO MÁS COMPLICADO....
+a. Ingresar una palabra, carácter por carácter, en una lista y determinar si es palíndromo.
+
+b. Leer una frase y luego invierta el orden de las palabras en la frase. Por Ejemplo: “una imagen vale por mil palabras” debe convertirse en “palabras mil por vale imagen una”.
+
+c. Simular la operación de colas de un Rapipago, que funciona con dos colas diferentes. El usuario llega y se ubica en la cola de menor cantidad de personas. Al finalizar el proceso indique cuántos elementos tiene cada cola.
+
+d. En un almacén se guarda mercadería en contenedores. No es posible colocar más de n contenedores uno encima del otro y, no hay área para más de 5 pilas de contenedores. Elabore un programa que permita gestionar el ingreso y salida de contenedores. Note que para retirar un contenedor es necesario retirar los contenedores que están encima de él y colocarlos en otra pila.
+
+e. Se tiene una lista que contiene mensajes encriptados de varios usuarios. Cada mensaje se encierra entre {}, y para indicar que se terminó el área de mensajes de un usuario se usa un signo &. Indique cuántos usuarios y cuántos mensajes hay en la lista, teniendo en cuenta que todos los mensajes están correctamente formados, es decir comienzan con { y terminan con }. Y que es seguro que al menos exista un usuario en la lista.
+
+f. Se tiene una lista con los datos de los clientes de una compañía de telefonía celular, los cuales pueden aparecer repetidos en la lista, si tienen registrado más de un número telefónico. La compañía para su próximo aniversario desea enviar un regalo a sus clientes, sin repetir regalos a un mismo cliente. En una lista se almacenan los regalos disponibles en orden. Se desea un programa que cree una nueva lista con los clientes, sin repetir y ordenada. Y que al final muestre el regalo que le corresponde a cada cliente.
+
+g. Se tiene una lista que almacena pedidos en orden de llegada, por ende puede haber más de un pedido para el mismo artículo. Crear una lista donde se almacene la cantidad de pedidos por artículo.

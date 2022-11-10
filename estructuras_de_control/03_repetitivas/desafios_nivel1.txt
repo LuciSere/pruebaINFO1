@@ -1,0 +1,48 @@
+DESAFÍO 1
+Nos han pedido desarrollar una aplicación móvil para reducir comportamientos 
+inadecuados para el ambiente.
+a) Te toca escribir un programa que simule el proceso de Login. Para ello el
+ programa debe preguntar al usuario la contraseña, y no le permita continuar 
+hasta que la haya ingresado correctamente.
+b) Modificar el programa anterior para que solamente permita una cantidad 
+fija de intentos. 
+
+DESAFÍO 2
+Se inicia una campaña de recolección de colillas de cigarrillos en los 
+barrios.
+Realizá un programa que permita registrar cantidad de colillas recolectadas 
+por un número determinado de personas. Luego obtener estadísticas al respecto
+ informando porcentaje de personas que han encontrado menos de 100 colillas, 
+más de 100 y menos de 200, más de 200 colillas.
+
+DESAFÍO 3
+En una tienda de descuento por reciclado las personas que van a pagar el 
+importe de su compra llegan a la caja y ofrecen tapitas para reciclar, de 
+acuerdo a la cantidad que lleven en la caja le entregan un código de 
+descuento que se aplicará sobre el total de su compra. Determinar la cantidad
+que pagara cada cliente desde que la tienda abre hasta que cierra. 
+Se sabe que si el código de descuento es rojo se obtendrá un 40% de 
+descuento; si es amarilla un 25% y si es blanca no obtendrá descuento.
+
+DESAFÍO 4
+Escriba un programa que permita imprimir un tablero Ecológico (verde y 
+blanco) de acuerdo al tamaño indicado. Por ejemplo el gráfico a la izquierda
+ es el resultado de un tamaño: 8x6
+
+DESAFÍO 5
+Se está desarrollando un sistema de control de vehículos desde donde se 
+han tirado restos de basura a la vía pública.
+Para ello la ciudad cuenta con sistemas de monitoreo de patentes que 
+devuelve 3 letras y un valor numérico de 5 dígitos a la Central con el 
+siguiente significado:
+3 letras: Correspondientes a la patente.
+Del valor numérico:
+Los 3 primeros números corresponden a la patente
+El 4 número indica
+1- Tiró basura a la vía pública
+0 - No tiró basura a la vía pública
+El 5 número indica
+1- Ya había sido multado el vehículo
+0 - Vehículo sin multas.
+Deberás informar cantidad de vehículos observados, cantidad de vehículos 
+que han tirado basura y porcentaje de éstos que ya habían sido multados.

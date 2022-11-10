@@ -1,0 +1,6 @@
+Lu,{'TELEFONO': '3456', 'DIRECCION': 'calle 123'}
+Fede,{'TELEFONO': '3265', 'DIRECCION': 'Calle 333'}
+Luli,{'TELEFONO': '424242', 'DIRECCION': '7888'}
+Maira,{'TELEFONO': '5487', 'DIRECCION': '9878'}
+cleto,{'TELEFONO': '3731252533', 'DIRECCION': 'cordon'}
+domingo,{'TELEFONO': '3731252544', 'DIRECCION': 'vereda'}
